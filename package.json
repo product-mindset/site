@@ -126,7 +126,7 @@
     "tslint-eslint-rules": "5.4.0",
     "tslint-microsoft-contrib": "6.2.0",
     "tslint-sonarts": "1.9.0",
-    "typescript": "3.7.3",
+    "typescript": "3.9.9",
     "vsts-coverage-styles": "1.0.8"
   },
   "contributors": [
